@@ -1,2 +1,2 @@
 # misc
-SOme projects with some interesting features
+Some projects with some interesting features
